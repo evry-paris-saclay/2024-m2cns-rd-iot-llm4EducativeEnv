@@ -2,7 +2,7 @@
 
 # Membres du Groupe
 * Ricardo FERNANDES DIAS ([@rizoricardo](https://github.com/rizoricardo))
-* Moise Biako ([@skeeters1234](https://github.com/skeeters1234))
+* Moise BIAKO ([@skeeters1234](https://github.com/skeeters1234))
 
 ## L’Étude des environnements éducatifs intelligents 
 
