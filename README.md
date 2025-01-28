@@ -21,7 +21,7 @@ Les Slides de la présentation se trouvent ici : [presentation_rd.pdf](docs/pres
 ## Implémentation
 ### Schéma de la solution
 
-(ici le schema)
+![Schéma](docs/schmard.JPG)
 
 ### Explication des étapes
 
