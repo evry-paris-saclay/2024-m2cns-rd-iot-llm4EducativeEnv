@@ -1,0 +1,17 @@
+Concept principal,Relation,Question,Choice 1,Choice 2,Choice 3,Choice 4,Correct Answer
+Modèle OSI,Couches OSI,À quelle couche du modèle OSI le protocole Ethernet opère-t-il principalement ?,Physique,Liaison,Réseau,Transport,Liaison
+Modèle OSI,Fonctionnalités des couches,Quelle est la fonction principale de la couche transport dans le modèle OSI ?,Routage des paquets,Transmission fiable,Encapsulation des données,Gestion des adresses MAC,Transmission fiable
+Ethernet,Câbles Ethernet,Quel type de câble Ethernet est utilisé pour connecter deux ordinateurs directement ?,Câble droit,Câble UTP,Câble coaxial,Câble croisé,Câble croisé
+Ethernet,Normes IEEE 802.3,Quelle norme Ethernet utilise des câbles en cuivre pour des transmissions à 10 Gbit/s ?,1000BASE-T,100BASE-TX,10BASE-T,10GBASE-T,10GBASE-T
+Protocole IP,TCP,Quelle est la principale caractéristique du protocole TCP en termes de fiabilité ?,Non fiable et sans connexion,Fiable et orienté connexion,Non fiable mais orienté connexion,Fiable mais sans connexion,Fiable et orienté connexion
+Protocole IP,UDP,Quelle est la principale caractéristique du protocole UDP en termes de fiabilité ?,Non fiable et sans connexion,Fiable et orienté connexion,Non fiable mais orienté connexion,Fiable mais sans connexion,Non fiable et sans connexion
+Switch niveau 2,VLAN,Quelle technologie permet de segmenter logiquement un réseau physique ?,NAT,DHCP,VLAN,DNS,VLAN
+Switch niveau 2,Spanning Tree Protocol,Quelle est la principale fonction du Spanning Tree Protocol dans un réseau de switches ?,Optimiser le routage,Sécuriser les communications,Prévenir les boucles de commutation,Gérer la qualité de service,Prévenir les boucles de commutation
+Câbles Ethernets,STP,Quel type de câble Ethernet offre une protection contre les interférences électromagnétiques avec des paires individuelles blindées ?,UTP,STP,FTP,S/FTP,STP
+Câbles Ethernets,UTP,Quel type de câble Ethernet n'a pas de blindage contre les interférences électromagnétiques ?,UTP,STP,FTP,S/FTP,UTP
+Fibre optique,Fibre multimode,Quel type de fibre optique a un noyau plus large permettant à plusieurs modes de lumière de se propager ?,Fibre monomode,Fibre multimode,Fibre UTP,Fibre STP,Fibre multimode
+Fibre optique,Fibre monomode,Quel type de fibre optique est généralement utilisé pour les communications à longue distance ?,Fibre multimode,Fibre monomode,Fibre UTP,Fibre STP,Fibre monomode
+Cartes réseau modernes,Optimisation réseau,Quelle fonction avancée des cartes réseau modernes peut réduire la charge du processeur principal ?,Compression matérielle,Chiffrement hardware,Offloading du traitement TCP/IP,Virtualisation réseau,Offloading du traitement TCP/IP
+Cartes réseau modernes,Adresses MAC,Quelle est la fonction principale des adresses MAC dans un réseau Ethernet ?,Router les paquets,Identifier les interfaces réseau,Établir des connexions sécurisées,Gérer la qualité de service,Identifier les interfaces réseau
+Agrégation de liens,Augmentation bande passante,Quel est l'avantage principal de l'agrégation de liens en termes de performance réseau ?,Réduction de la latence,Augmentation de la bande passante,Amélioration de la sécurité,Simplification de la configuration,Augmentation de la bande passante
+Agrégation de liens,Redondance,Comment l'agrégation de liens contribue-t-elle à la fiabilité du réseau ?,En augmentant la vitesse de transmission,En réduisant les interférences,En fournissant des chemins redondants,En simplifiant la configuration du réseau,En fournissant des chemins redondants

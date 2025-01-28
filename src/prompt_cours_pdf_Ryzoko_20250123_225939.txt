@@ -1,0 +1,12 @@
+Génère un nouveau PDF basé sur les concepts non maîtrisés par l’étudiant.
+Ce PDF extrait les informations de l’ancien PDF, reformule les explications, ajoute des images, et structure les contenus en chapitres pour chaque concept concerné.
+
+Concepts non maîtrisés :
+- Agrégation de liens (Score : 0)
+- Cartes réseau modernes (Score : 0)
+- Câbles Ethernets (Score : 1)
+- Ethernet (Score : 0)
+- Fibre optique (Score : 1)
+- Modèle OSI (Score : 0)
+- Protocole IP (Score : 0)
+- Switch niveau 2 (Score : 0)

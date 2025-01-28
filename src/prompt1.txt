@@ -1,0 +1,17 @@
+Agis comme un spécialiste en docimologie et en conception de questionnaires à choix multiples. Je suis professeur en réseau informatique et je souhaite concevoir un quiz scientifique rigoureux basé sur le document PDF ci-joint. Le quiz devra couvrir les concepts mentionnés dans la structure suivante :concepts_relations = {
+    "Modèle OSI": ["Couches OSI", "Fonctionnalités des couches"],
+    "Ethernet": ["Câbles Ethernet", "Normes IEEE 802.3"],
+    "Protocole IP": ["TCP", "UDP"],
+    "Switch niveau 2": ["VLAN", "Spanning Tree Protocol"],
+    "Câbles Ethernets": ["STP", "UTP"],
+    "Fibre optique": ["Fibre multimode", "Fibre monomode", ],
+    "Cartes réseau modernes": ["Optimisation réseau", "Adresses MAC"],
+    "Agrégation de liens": ["Augmentation bande passante", "Redondance"]
+}
+Pour chaque concept et ses sous-thèmes, crée des questions pertinentes et précises, sous forme d’un tableau. Chaque ligne du tableau contiendra les éléments suivants :
+
+Colonne 1 : Le concept principal (par exemple, "Modèle OSI", "Ethernet"). 
+Colonne 2 : La relation associée au concept. Colonne 3 : La question formulée de manière claire et scientifique.                                    
+Colonnes 4, 5, 6, 7: Les quatre réponses possibles (une seule correcte).
+Colonne 8 : Donnes la bonne réponse.
+Fais des questions pour chaque sous thème.Le quiz doit se baser uniquement sur les informations contenues dans le document PDF fourni. Pose des questions variées (définition, relation entre concepts, cas d'usage, scénarios pratiques) pour tester la compréhension approfondie de l'étudiant.Respecte strictement le document PDF comme source d’information et adopte un ton scientifique. Demande si nécessaire des éclaircissements pour bien cerner les attentes. 
