@@ -23,10 +23,6 @@ Les Slides de la présentation se trouvent ici : [presentation_rd.pdf](docs/pres
 
 ![Schéma](docs/schmard.JPG)
 
-### Explication des étapes
-
-(écrire ici)
-
 # Projet Python - Guide d'installation
 
 Ce fichier vous guidera dans les étapes nécessaires pour installer et exécuter ce projet correctement.
