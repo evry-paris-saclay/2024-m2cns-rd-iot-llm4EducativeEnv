@@ -27,6 +27,57 @@ Les Slides de la présentation se trouvent ici : [presentation_rd.pdf](docs/pres
 
 (écrire ici)
 
-### Mise en place
+# Projet Python - Guide d'installation
 
-(on y met etape par étape quoi faire)
+Ce fichier vous guidera dans les étapes nécessaires pour installer et exécuter ce projet correctement.
+
+## Prérequis
+
+- **Python** : Assurez-vous d'avoir Python installé (version 3.7 ou plus recommandée).
+- **Git** : Si vous clonez le projet depuis un dépôt GitHub.
+
+## Étapes d'installation
+
+1. **Clonez le dépôt** (si applicable) :
+   ```bash
+   git clone <url-du-depot>
+   cd <nom-du-depot>
+   ```
+
+2. **Créez un environnement virtuel :**
+   
+   Sous Windows :
+   ```bash
+   python -m venv .venv
+   ```
+   Sous macOS/Linux :
+   ```bash
+   python3 -m venv .venv
+   ```
+
+3. **Activez l'environnement virtuel :**
+   
+   Sous Windows :
+   ```bash
+   .venv\Scripts\activate
+   ```
+   Sous macOS/Linux :
+   ```bash
+   source .venv/bin/activate
+   ```
+
+4. **Placez tous les fichiers nécessaires dans le répertoire racine du projet :**
+   Assurez-vous que tous les fichiers requis pour le projet sont dans le même répertoire que l'environnement virtuel.
+
+5. **Lancez le script principal :**
+   
+   Pour exécuter le projet, lancez le fichier `auth.py` avec la commande suivante :
+   ```bash
+   python auth.py
+   ```
+
+## Interface d'accueil
+
+Voici un aperçu de l'interface d'accueil une fois le projet lancé :
+
+![Interface d'accueil](docs/int1.png)
