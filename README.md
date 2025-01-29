@@ -21,7 +21,7 @@ Les Slides de la présentation se trouvent ici : [presentation_rd.pdf](docs/pres
 ## Implémentation
 ### Schéma de la solution
 
-![Schéma](docs/schmard.JPG)
+![Schéma](docs/schrd1.JPG)
 
 # Projet Python - Guide d'installation
 
