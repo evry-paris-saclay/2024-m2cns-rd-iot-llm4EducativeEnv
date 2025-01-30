@@ -13,7 +13,7 @@ Dans le domaine de l’éducation, la diversité des capacités des élèves cr�
 Vous trouverez ici la démo du fonctionnement de notre projet : [https://www.youtube.com/watch?v=5zMA5jqDOx0](https://www.youtube.com/watch?v=5zMA5jqDOx0)
 
 ## Rapport
-Vous trouverez ici le rapport du projet : [nom.pdf](route).
+Vous trouverez ici le rapport du projet : [2024_m2cns_rd_iot_LLM_EducativeEnvironmentss_rendu_final.pdf](/docs/2024_m2cns_rd_iot_LLM_EducativeEnvironmentss_rendu_final.pdf).
 
 ## Présentation
 Les Slides de la présentation se trouvent ici : [presentationrd.pdf](docs/presentationrd.pdf).
