@@ -16,7 +16,7 @@ Vous trouverez ici la démo du fonctionnement de notre projet : [https://www.you
 Vous trouverez ici le rapport du projet : [nom.pdf](route).
 
 ## Présentation
-Les Slides de la présentation se trouvent ici : [presentationrd.pdf](docs/presentation_rd.pdf).
+Les Slides de la présentation se trouvent ici : [presentationrd.pdf](docs/presentationrd.pdf).
 
 ## Implémentation
 ### Schéma de la solution
